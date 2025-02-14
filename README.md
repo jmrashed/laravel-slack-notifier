@@ -1,3 +1,6 @@
+<!--image  -->
+![Laravel Slack Notifier Package](Notification.png)
+
 # Laravel Slack Notifier Package
 
 A simple package to send notifications to Slack using webhooks, with support for customizations such as multiple webhooks, channels, bot name, emojis, and more.
